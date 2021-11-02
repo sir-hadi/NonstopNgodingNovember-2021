@@ -1,2 +1,5 @@
 Day 1 
 Ambil Courses PANDA, udah complete 4 out of 6 section
+
+Day 2
+Menyelesaikan courses PANDA, dan udah complete 6 out of 7 section untuk courses Intermediate Machine Learning
