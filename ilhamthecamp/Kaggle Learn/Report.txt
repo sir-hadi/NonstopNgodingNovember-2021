@@ -5,4 +5,7 @@ Day 2
 Menyelesaikan courses PANDA, dan udah complete 6 out of 7 section untuk courses Intermediate Machine Learning
 
 Day 3
-Menyelesaikan courses Intermediate Machine Learning dan udah coomplete 4 out of 8 lesson untuk courses Data Visualisation
+Menyelesaikan courses Intermediate Machine Learning dan udah coomplete 4 out of 8 lesson untuk courses Data Visualization
+
+Day 4
+Menyelesaikan courses Data Visualization, Feature Engineering dan Intro to SQL
