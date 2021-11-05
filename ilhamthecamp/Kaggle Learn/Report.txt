@@ -9,3 +9,6 @@ Menyelesaikan courses Intermediate Machine Learning dan udah coomplete 4 out of 
 
 Day 4
 Menyelesaikan courses Data Visualization, Feature Engineering dan Intro to SQL
+
+Day 5
+Menyelesaikan courses Advanced SQL
