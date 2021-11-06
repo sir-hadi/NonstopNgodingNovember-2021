@@ -12,3 +12,6 @@ Menyelesaikan courses Data Visualization, Feature Engineering dan Intro to SQL
 
 Day 5
 Menyelesaikan courses Advanced SQL
+
+Day 6
+Menyelesaikan 3 dari 6 lesson di course Intro to Deep Learning
