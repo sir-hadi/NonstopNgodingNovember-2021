@@ -15,3 +15,6 @@ Menyelesaikan courses Advanced SQL
 
 Day 6
 Menyelesaikan 3 dari 6 lesson di course Intro to Deep Learning
+
+Day 7
+Menyelesaikan sisa lesson di course Intro to Deep Learning
