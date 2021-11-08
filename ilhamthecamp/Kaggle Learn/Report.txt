@@ -18,3 +18,6 @@ Menyelesaikan 3 dari 6 lesson di course Intro to Deep Learning
 
 Day 7
 Menyelesaikan sisa lesson di course Intro to Deep Learning
+
+Day 8
+Menyelesaikan lesson 1 di course Computer Vision
