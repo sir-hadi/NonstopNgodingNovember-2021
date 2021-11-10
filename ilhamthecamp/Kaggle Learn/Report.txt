@@ -24,3 +24,6 @@ Menyelesaikan lesson 1 di course Computer Vision
 
 Day 9
 Menyelesaikan lesson Conv dan RelU di course Computer Vision
+
+Day 10
+Menyelesaikan lesson Maximum Pooling di course Computer Vision
