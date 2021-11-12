@@ -28,6 +28,8 @@ Menyelesaikan lesson Conv dan RelU di course Computer Vision
 Day 10
 Menyelesaikan lesson Maximum Pooling di course Computer Vision
 
-
-Day 10
+Day 11
 Menyelesaikan lesson Sliding Windows di course Computer Vision
+
+Day 12
+Menyelesaikan 2 lesson terakhir di course Computer Vision
