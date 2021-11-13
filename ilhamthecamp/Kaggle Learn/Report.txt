@@ -33,3 +33,6 @@ Menyelesaikan lesson Sliding Windows di course Computer Vision
 
 Day 12
 Menyelesaikan 2 lesson terakhir di course Computer Vision
+
+Day 13
+Menyelesaikan lesson pertama di course Time Series
