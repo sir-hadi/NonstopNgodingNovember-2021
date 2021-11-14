@@ -36,3 +36,6 @@ Menyelesaikan 2 lesson terakhir di course Computer Vision
 
 Day 13
 Menyelesaikan lesson pertama di course Time Series
+
+Day 14
+Menyelesaikan lesson Trend di course Time Series
