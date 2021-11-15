@@ -39,3 +39,6 @@ Menyelesaikan lesson pertama di course Time Series
 
 Day 14
 Menyelesaikan lesson Trend di course Time Series
+
+Day 15
+Menyelesaikan lesson Seasonality di course Time Series
