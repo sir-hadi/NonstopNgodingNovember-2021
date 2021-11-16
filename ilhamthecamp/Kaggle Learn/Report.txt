@@ -42,3 +42,6 @@ Menyelesaikan lesson Trend di course Time Series
 
 Day 15
 Menyelesaikan lesson Seasonality di course Time Series
+
+Day 16
+Menyelesaikan lesson Time Series as Features di course Time Series
