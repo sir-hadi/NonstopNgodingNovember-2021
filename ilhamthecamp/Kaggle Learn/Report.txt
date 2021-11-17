@@ -45,3 +45,6 @@ Menyelesaikan lesson Seasonality di course Time Series
 
 Day 16
 Menyelesaikan lesson Time Series as Features di course Time Series
+
+Day 17
+Menyelesaikan 2 lesson terakhir di course Time Series
