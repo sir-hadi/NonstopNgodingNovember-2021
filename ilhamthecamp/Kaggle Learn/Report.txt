@@ -48,3 +48,6 @@ Menyelesaikan lesson Time Series as Features di course Time Series
 
 Day 17
 Menyelesaikan 2 lesson terakhir di course Time Series
+
+Day 18
+Menyelesaikan 3 lesson di course Data Cleaning
