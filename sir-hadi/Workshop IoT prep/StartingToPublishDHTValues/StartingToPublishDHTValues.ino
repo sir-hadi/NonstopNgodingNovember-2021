@@ -8,7 +8,14 @@
 
 // MQTT Library untuk terkoneksi dengan Broker MQTT dan melakukan
 // aksi publish dan subcribe
-#include <PubSubClient.h>  
+#include <PubSubClient.h>
+
+#include "DHT.h"
+
+#define DHTPIN D4
+#define DHTTYPE DHT11 
+
+
 
 // Nama (ssid) dan Password wifi yang akan dikoneksikan NodeMCU
 const char* ssid     = "*";
@@ -24,6 +31,8 @@ const char* topic_random = "random_mcu";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
+
+DHT dht(DHTPIN, DHTTYPE);
 
 
 void callback(char *topic, byte *payload, unsigned int length) {
@@ -89,6 +98,27 @@ void setup() {
 }
 
 void loop() {
+  
+  // Reading temperature or humidity takes about 250 milliseconds!
+  // Sensor readings may also be up to 2 seconds 'old' (its a very slow sensor)
+  float h = dht.readHumidity();
+  // Read temperature as Celsius (the default)
+  float t = dht.readTemperature();
+
+  // Check if any reads failed and exit early (to try again).
+  if (isnan(h) || isnan(t)) {
+    Serial.println(F("Failed to read from DHT sensor!"));
+    return;
+  }
+
+  Serial.print(F("Humidity: "));
+  Serial.print(h);
+  Serial.print(F("%  Temperature: "));
+  Serial.print(t);
+  Serial.println();
+
+  client.publish(topic_suhu, String(t).c_str());
+  client.publish(topic_kelempaban , String(h).c_str());
   client.publish(topic_random, String(random(10,100)).c_str());
   delay(1000);
   client.loop();
