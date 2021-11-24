@@ -90,6 +90,9 @@ void setup() {
 
 void loop() {
   client.publish(topic_random, String(random(10,100)).c_str());
+  long rssi = WiFi.RSSI();
+  Serial.print("RSSI:");
+  Serial.println(rssi);
   delay(1000);
   client.loop();
 }

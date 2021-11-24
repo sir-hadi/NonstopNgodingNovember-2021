@@ -12,7 +12,7 @@
 
 #include "DHT.h"
 
-#define DHTPIN D4
+#define DHTPIN D3
 #define DHTTYPE DHT11 
 
 
@@ -120,6 +120,6 @@ void loop() {
   client.publish(topic_suhu, String(t).c_str());
   client.publish(topic_kelempaban , String(h).c_str());
   client.publish(topic_random, String(random(10,100)).c_str());
-  delay(1000);
+  delay(5000);
   client.loop();
 }
