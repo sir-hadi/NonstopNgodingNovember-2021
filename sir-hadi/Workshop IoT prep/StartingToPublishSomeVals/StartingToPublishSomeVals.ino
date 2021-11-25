@@ -11,16 +11,16 @@
 #include <PubSubClient.h>  
 
 // Nama (ssid) dan Password wifi yang akan dikoneksikan NodeMCU
-const char* ssid     = "*";
-const char* password = "*";
+const char ssid[]     = "chezza";
+const char password[] = "sumantri";
 
 // informasi Host dan Port MQTT broker yang akan digunakan
-const char* broker = "broker.hivemq.com";
-const uint16_t port = 1883;
+const char broker[] = "broker.hivemq.com";
+const int port = 1883;
 
-const char* topic_suhu = "suhu_mcu";
-const char* topic_kelempaban = "kelembapan_mcu";
-const char* topic_random = "random_mcu";
+const char topic_suhu[] = "suhu_mcu";
+const char topic_kelempaban[] = "kelembapan_mcu";
+const char topic_random[] = "rssi_mcu";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
