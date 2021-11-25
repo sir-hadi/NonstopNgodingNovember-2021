@@ -63,3 +63,6 @@ Menyelesaikan 2 lesson terakhir di course Intro to AI Ethics
 
 Day 22
 Menyelesaikan lesson Your First Map di course Geospatial Analysis
+
+Day 25
+Menyelesaikan lesson Your Coordinate Reference System di course Geospatial Analysis
