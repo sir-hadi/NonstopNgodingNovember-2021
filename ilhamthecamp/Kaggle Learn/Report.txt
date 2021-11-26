@@ -66,3 +66,6 @@ Menyelesaikan lesson Your First Map di course Geospatial Analysis
 
 Day 25
 Menyelesaikan lesson Your Coordinate Reference System di course Geospatial Analysis
+
+Day 26
+Menyelesaikan lesson Interactive Maps di course Geospatial Analysis
