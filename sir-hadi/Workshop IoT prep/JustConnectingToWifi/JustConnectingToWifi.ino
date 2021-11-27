@@ -3,8 +3,8 @@
 
 
 // Nama (ssid) dan Password wifi yang akan dikoneksikan NodeMCU
-const char ssid[]     = "chezza";
-const char password[] = "sumantri";
+const char ssid[]     = "*";
+const char password[] = "*";
 
 void setup() {
   //// Tahap Mengkoneksikan ke WIFI

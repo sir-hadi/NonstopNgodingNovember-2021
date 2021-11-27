@@ -11,8 +11,8 @@
 #include <PubSubClient.h>  
 
 // Nama (ssid) dan Password wifi yang akan dikoneksikan NodeMCU
-const char ssid[]     = "chezza";
-const char password[] = "sumantri";
+const char ssid[]     = "*";
+const char password[] = "*";
 
 // informasi Host dan Port MQTT broker yang akan digunakan
 const char broker[] = "broker.hivemq.com";

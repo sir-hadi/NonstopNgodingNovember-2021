@@ -4,8 +4,8 @@
 #include "DHT.h"
 
 // Nama (ssid) dan Password wifi yang akan dikoneksikan NodeMCU
-const char ssid[]     = "chezza";
-const char password[] = "sumantri";
+const char ssid[]     = "*";
+const char password[] = "*";
 
 // mendefenisikan pin yang terhubung dengan DataPin DHT11
 // yaitu pin D4
